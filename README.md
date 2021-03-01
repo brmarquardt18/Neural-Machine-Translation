@@ -1,7 +1,7 @@
 # biweekly-report-3-bema8444
 
 # Addition_NMT
-In this notebook I explore how to apply the same sequence to sequence structure we have discussed before to things other than spoken language. I treat addition and the resulting answers as their own languages 
+In this notebook I explore how to apply the same sequence to sequence structure we have discussed before to things other than spoken language. I treat addition and the resulting answers as their own languages. I apologize for the huge chunks of outputs, on my computer they condense down into a scrollable window. 
 and train a model to translate from a string "xxx+xxx" to an answer "xxx". I found this idea very interesting because I hadn't thought about other applications of NMT like this.
 
 # French_English
